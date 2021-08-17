@@ -8,7 +8,9 @@
   <a href="https://github.com/yuricps">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yuricps&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuricps&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
+
+  ![](https://komarev.com/ghpvc/?username=your-github-yuricps&style=flat&color=brightgreen)
+  </div>
  
 ## Conhecimentos 
 <div style="display: inline_block"><br>
@@ -19,5 +21,5 @@
   <img align="center" alt="C" height="30" width="40" src="https://icongr.am/devicon/c-original.svg">
   <img align="center" alt="C++" height="30" width="40" src="https://icongr.am/devicon/cplusplus-original.svg">
   <img align="center" alt="Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain.svg">
-  <img align="center" alt="Linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-plain.svg">
+  <img align="center" alt="Linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-plain.svg"> 
 </div>
