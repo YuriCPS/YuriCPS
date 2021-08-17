@@ -17,7 +17,6 @@
   <img align="center" alt="HTML" height="30" width="40" src="https://icongr.am/devicon/html5-original-wordmark.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://icongr.am/devicon/css3-original-wordmark.svg">
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="C" height="30" width="40" src="https://icongr.am/devicon/c-original.svg">
   <img align="center" alt="C++" height="30" width="40" src="https://icongr.am/devicon/cplusplus-original.svg">
   <img align="center" alt="Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain.svg">
