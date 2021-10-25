@@ -1,6 +1,6 @@
 - 👋 Olá, tudo bem? Eu sou Yuri Carvalho.
 - 👨‍🎓 Sou formado em Engenharia de Produção pela UFCG.
-- 👀 Sempre tive interesse por tecnologia e estou rumando em direção a ser um Dev.
+- 👀 Sempre tive interesse por tecnologia e estou rumando em direção a ser um Dev estudando na Trybe!
 - 🌱 Estou aprendendo HTML, CSS and Javascript, na universidade aprendi o básico de C e C++.
 
 ## Stats
