@@ -2,8 +2,10 @@
 
 - 👋 Tudo bem? Eu sou Yuri Carvalho.
 - 👨‍🎓 Sou formado em Engenharia de Produção pela UFCG.
-- 👀 Sempre tive interesse por tecnologia e estou em direção a ser um Dev estudando na <a href="https://www.betrybe.com/">Trybe!</a>
+- 👀 Sempre tive interesse por tecnologia e estou em direção a ser um Dev estudando na <a href="https://www.betrybe.com/"><strong>Trybe</strong>!</a>
 - 🌱 Estou aprendendo HTML, CSS e Javascript, na universidade aprendi C e C++.
+
+<p><a href="https://www.linkedin.com/in/yuricps"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> <a href="https://www.instagram.com/yuricps/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25></a> <a href="https://yuricps.medium.com/"><img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" height=25></a> <a href="https://dev.to/yuricps"><img src="https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev-dot-to&logoColor=white" height=25></a></p>
 
 ## Stats
  <div>
