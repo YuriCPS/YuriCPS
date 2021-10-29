@@ -1,7 +1,9 @@
-- 👋 Olá, tudo bem? Eu sou Yuri Carvalho.
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="50"/> Olá! Que bom te ver por aqui!</h1>
+
+- 👋 Tudo bem? Eu sou Yuri Carvalho.
 - 👨‍🎓 Sou formado em Engenharia de Produção pela UFCG.
-- 👀 Sempre tive interesse por tecnologia e estou em direção a ser um Dev estudando na Trybe!
-- 🌱 Estou aprendendo HTML, CSS and Javascript, na universidade aprendi C e C++.
+- 👀 Sempre tive interesse por tecnologia e estou em direção a ser um Dev estudando na <a href="https://www.betrybe.com/">Trybe!</a>
+- 🌱 Estou aprendendo HTML, CSS e Javascript, na universidade aprendi C e C++.
 
 ## Stats
  <div>
