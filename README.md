@@ -21,6 +21,7 @@
     <img height:"180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuricps&theme=blue-green&hide_border=true">
     <br>
     <br>
+    <br>
   </div>
   
 ## Conhecimentos 
