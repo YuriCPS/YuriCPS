@@ -32,7 +32,8 @@
   <img align="center" alt="C" height="30" width="40" src="https://icongr.am/devicon/c-original.svg">
   <img align="center" alt="C++" height="30" width="40" src="https://icongr.am/devicon/cplusplus-original.svg">
   <img align="center" alt="Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain.svg">
-  <img align="center" alt="Linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-plain.svg"> 
+  <img align="center" alt="Linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-plain.svg">
+  <img align="center" alt="React" height="30" width="40" src="https://icongr.am/devicon/react-original-wordmark.svg">
 </div>
 <br>
 <div align="center">
