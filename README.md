@@ -3,7 +3,8 @@
 - 👋 Tudo bem? Eu sou Yuri Carvalho.
 - 👨‍🎓 Sou formado em Engenharia de Produção pela UFCG.
 - 👀 Sempre tive interesse por tecnologia e estou estudando Desenvolvimento Web na <a href="https://www.betrybe.com/"><strong>Trybe</strong>!</a>
-- 🌱 Estou aprendendo HTML, CSS, Javascript e React, na universidade aprendi C e C++.
+- 🌱 Estou aprendendo HTML, CSS, Javascript e React, na universidade aprendi C e C++
+- sd
 
 <br>
 
