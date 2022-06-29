@@ -3,14 +3,14 @@
 - 👋 Tudo bem? Eu sou Yuri Carvalho.
 - 👨‍🎓 Sou formado em Engenharia de Produção pela UFCG.
 - 👀 Sempre tive interesse por tecnologia e estou estudando Desenvolvimento Web na <a href="https://www.betrybe.com/"><strong>Trybe</strong>!</a>
-- 🌱 Estou aprendendo HTML, CSS, Javascript e React, na universidade aprendi C e C++
+- 🌱 Estou aprendendo HTML, CSS, Javascript, Typescript, React, Node e SQL na universidade aprendi C e C++
 
 <br>
 
 - 👋 Hi! I'm Yuri Carvalho.
 - 👨‍🎓 I have a degree in Industrial Engineering from Federal University of Campina Grande.
 - 👀 I've always been interested in technology and I'm studying Web Development at <a href="https://www.betrybe.com/"><strong>Trybe</strong>!</a>
-- 🌱 I'm learning HTML, CSS, Javascript and React, at university I learned C and C++.
+- 🌱 I'm learning HTML, CSS, Javascript, Typescript, React, Node and SQL, at university I learned C and C++.
 
 <br>
 <div align="center">
